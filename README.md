@@ -1,1 +1,3 @@
-# emb_comparison
+Курсовая работа
+![alt text](image.png)
+![alt text](image-1.png)
